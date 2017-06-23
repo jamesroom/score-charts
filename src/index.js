@@ -16,7 +16,6 @@ export default class Score {
 
    this.renderCircle(degree);
   this.renderArrow(degree);
-
     // var score =0;
     // var timer =setInterval(() =>{
     //   var degree = this.getDegree(score);
